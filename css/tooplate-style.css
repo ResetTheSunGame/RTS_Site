@@ -13,8 +13,15 @@ textarea {
 }
 
 a {
-	color: #ff00e1;
+  color: #ff00e1;
   text-decoration: none;
+}
+
+#Social{
+  color: #ff00e1;
+  text-decoration: none;
+  font-size: 35px; /* You can adjust the size to your preference */
+
 }
 
 button {
@@ -60,6 +67,7 @@ p {
   display: inline-block;
   margin: 0;
   width: 100%;
+  padding-top: 45px;
 }
 
 img {
@@ -156,9 +164,9 @@ img {
 }
 
 .tm-btn-small {
-  font-size: 17px;
+  font-size: 13px;
   font-weight: 600;
-  padding: 15px 35px;
+  padding: 15px 15px;
 }
 
 .tm-btn-pad-big {
